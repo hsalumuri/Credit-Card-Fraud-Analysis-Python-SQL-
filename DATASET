@@ -1,0 +1,2 @@
+## Dataset
+Download the Credit Card Fraud dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place it in the `data/` folder.
