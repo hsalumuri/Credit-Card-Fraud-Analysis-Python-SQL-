@@ -33,17 +33,23 @@ Your Python notebook will read the dataset from this path.
 
 ## 📸 Visuals
 
+### Fraud vs Non-Fraud Bar Plot
+<img width="578" height="450" alt="image" src="https://github.com/user-attachments/assets/ac239df3-2dac-4270-a71c-b15275036d2c" />
+
+### Histogram of Transaction Amounts
+<img width="857" height="451" alt="image" src="https://github.com/user-attachments/assets/c8d8ec90-3bbd-46d8-9cc2-3c07182297ba" />
+
 ### Fraud vs Non-Fraud Pie Chart
 <img width="481" height="504" alt="image" src="https://github.com/user-attachments/assets/98e27a60-680a-4ee1-b5b2-4da834da04f6" />
 
 ### Average Transaction Amount Comparison
-![Average Transaction Amount](images/avg_amount_comparison.png)
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/235ff3c5-22a0-48dd-9857-8d79c60de6c1" />
 
 ### Transaction Amount Distribution (Log Scale)
-![Transaction Amount Distribution](images/transaction_amount_distribution.png)
+<img width="694" height="470" alt="image" src="https://github.com/user-attachments/assets/a239e800-2e0e-43d1-9c0b-445463d3ccdb" />
 
 ### Feature Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+<img width="816" height="722" alt="image" src="https://github.com/user-attachments/assets/a8e66607-a7c6-43e1-9acc-65d2053cc338" />
 
 ---
 
